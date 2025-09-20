@@ -17,7 +17,7 @@ student thoroughly through a totally automated system that not only reduce the r
 time but also obtain fast and accurate results.
 
 
- QUIZMASTER-HUBis an online test simulator is to take online
+ Quizmaster-hub is an online test simulator is to take online
 examination, test in an efficient manner and no time wasting for manually checking of the
 test paper. The main objective of this web based Quizmaster-hub is to
 efficiently evaluate the student thoroughly through a fully automated system that not only
