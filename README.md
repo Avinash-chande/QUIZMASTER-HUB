@@ -25,10 +25,18 @@ saves lot of time but also gives fast and accurate results. For students they gi
 according to their convenience from any location by using internet and time and there is
 no need of using extra thing like paper, pen etc.
 
-
 Functional Specification:
 
 1. Registering new Student
 2. Getting the student and staff info and storing it to databases
 3. Getting the type and number of question paper
 4.Generating result after the exam.
+
+
+How to run this project locally
+
+clone this repo to www folder in WAMP software
+Open phpmydmin & Create new database with name projet
+import the SQL file present in SQL Files Folder using import option in phpmyadmin.
+changes credentials in sql.php file with your database credentials.
+open localhost in browser. you see the home page
