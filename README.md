@@ -32,10 +32,9 @@ Functional Specification:
 3. Getting the type and number of question paper
 4.Generating result after the exam.
 
-
 <b>How to run this project locally</b>
 1. clone this repo to www folder in WAMP software
 2. Open phpmydmin & Create new database with name projet
 3. import the SQL file present in SQL Files Folder using import option in phpmyadmin.
-changes credentials in sql.php file with your database credentials.
-open localhost in browser. you see the home page
+4. changes credentials in sql.php file with your database credentials.
+5. open localhost in browser. you see the home page
