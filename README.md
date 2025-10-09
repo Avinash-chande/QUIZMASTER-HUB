@@ -27,9 +27,9 @@ no need of using extra thing like paper, pen etc.
 
 Functional Specification:
 
-1. Registering new Student
-2. Getting the student and staff info and storing it to databases
-3. Getting the type and number of question paper
+1. Registering new Student's,
+2. Getting the student and staff info and storing it to databases,
+3. Getting the type and number of question paper,
 4.Generating result after the exam.
 
 <b>How to run this project locally</b>
