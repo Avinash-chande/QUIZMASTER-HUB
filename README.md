@@ -14,8 +14,7 @@
 examinations are given online. either through the internet or intranet using computer
 system. The main goal of this  Quizmaster-hub is to effectively evaluate the
 student thoroughly through a totally automated system that not only reduce the required
-time but also obtain fast and accurate results.
-
+time but also obtain fast and accurate results
 
  Quizmaster-hub is an online test simulator is to take online
 examination, test in an efficient manner and no time wasting for manually checking of the
