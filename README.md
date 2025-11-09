@@ -22,7 +22,7 @@ test paper. The main objective of this web based Quizmaster-hub is to
 efficiently evaluate the student thoroughly through a fully automated system that not only
 saves lot of time but also gives fast and accurate results. For students they give papers
 according to their convenience from any location by using internet and time and there is
-no need of using extra thing like paper, pen etc.
+no need of using extra thing like paper, pen etc
 
 Functional Specification:
 
