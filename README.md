@@ -32,7 +32,7 @@ Functional Specification:
 4.Generating result after the exam.
 
 <b>How to run this project locally</b>
-1. clone this repo to www folder in WAMP software
+1. clone this repo to www folder in WAMP software.
 2. Open phpmydmin & Create new database with name projet.
 3. import the SQL file present in SQL Files Folder using import option in phpmyadmin.
 4. changes credentials in sql.php file with your database credentials.
