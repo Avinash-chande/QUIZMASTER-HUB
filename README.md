@@ -5,7 +5,7 @@
 
 <b>Front-End:</b> HTML,CSS,JavaScript
 
-<b>Back-End:</b> PHP,MySql
+<b>Back-End:</b> PHP,MySql.
 
 
 <b>Software Used:</b>WAMP
