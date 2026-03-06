@@ -1,5 +1,5 @@
 # DBMS-MINI-Project.
- DBMS project on topic <b> QUIZMASTER-HUB</b>
+ DBMS project on topic <b> QUIZMASTER-HUB</b>.
 
 <b>Technology Used:</b>
 
